@@ -13,7 +13,7 @@ The books are from Mute Publishing:
 
   * [You Must Make Your Death Public](https://github.com/consortium/PoD_template/tree/master/original_base_resources/Chris_Kraus_indesign_files): a collection of texts and media on the work of Chris Kraus Edited by Mira Mattar, 2015
 
-  * Resproducing Automomy by Kerstin Stakemeier & Marina Vishmidt, May 2016
+  * Reproducing Automomy by Kerstin Stakemeier & Marina Vishmidt, May 2016
 
 B. The roadmap is first to produce a fixed layout only, intended for print-on-demand PDF. Then to add workflows for other output formats.
 
