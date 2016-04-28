@@ -1,8 +1,8 @@
-Documentation and graphic design - CCBY 3.0 DE http://creativecommons.org/licenses/by-sa/3.0/de/deed.en
+Hybrid Publishing Group documentation and graphic design - CCBY 3.0 DE http://creativecommons.org/licenses/by-sa/3.0/de/deed.en or respective CCBY licence or open licence.
 
 Software - respective open licence of the software maker/owner. 
 
-Any Hybrid Publishing Group software is under the The MIT License (MIT)
+Hybrid Publishing Group software is under the The MIT License (MIT)
 
 Copyright (c) 2016 Hybrid Publishing Group - InfoMesh Technologies UG (DE)
 
