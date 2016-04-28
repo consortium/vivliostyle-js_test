@@ -11,7 +11,7 @@ A. Work on two book productions of long-form scholarly texts, that would have co
 
 The books are from Mute Publishing:
 
-  * [You Must Make Your Death Public](https://github.com/consortium/PoD_template/tree/master/original_base_resources/Chris_Kraus_indesign_files)You Must Make Your Death Public: a collection of texts and media on the work of Chris Kraus Edited by Mira Mattar, 2015
+  * [You Must Make Your Death Public](https://github.com/consortium/PoD_template/tree/master/original_base_resources/Chris_Kraus_indesign_files): a collection of texts and media on the work of Chris Kraus Edited by Mira Mattar, 2015
 
   * Resproducing Automomy by Kerstin Stakemeier & Marina Vishmidt, May 2016
 
