@@ -1,26 +1,18 @@
 ## Specifications
 
-## Print
+Description of a PDF document needed for a book-block for PoD printing with Lightningsource printers. The specs also apply to black and white PoD printing in general.
+
+## PoD PDF
 
 Page dimensions: 203 x 127 mm
 
-Bleed on book-block: bleeds are optional, if using a file with bleed should be submitted with the required 3 mm added to the three trim edges (top, bottom, outside). Please do not add bleed to the bind (gutter) edge as this will cause incorrect positioning.
+Bleed on book-block: no bleed will be used. Bleeds are optional, if using a file with bleed should be submitted with the required 3 mm added to the three trim edges (top, bottom, outside). Please do not add bleed to the bind (gutter) edge as this will cause incorrect positioning.
 
 Printers marks and crop marks: none on book-block
 
-Paper: 50lb/75gsm, 444 PPI, crème paper
-
-Page range: 18-1050, books must not be below 18 pages, page counts must be divisible by 2, last page must be blank for printers barcode (this is not the ISBN/EAN barcode but a tracking code, this page is included in total page count), printing is 2, 4, 6 or 8 up depending on PoD machine used (normal printing is 6 up).
-
-Binding: perfect, paperback and hardback
-
-Covers paperback: gloss laminate exterior, 4-color duplex (two-sided), 90lb/243gsm or 100lb/148gsm paper
-
-Covers hardback: (quote lightningsource PoD printers) Hardback (hb) bookblocks are bound with 65lb/176gsm crème or white end sheets (leaves) that match the color of the bookblock, and are glued into hardback cases. Books are dressed with headbands and footbands: and bound into either (1) printed four-color laminated cover (gloss or matte laminate), or (2) 100% cotton fabric with (acrylic-filled coating cover) a gold foil stamped spine (optional). The stamping is completed in 18pt. Cheltenham Bold font (for books with 80 pages or more). Cloth covered books are available in Indigo Blue Linen or Dove Gray. Foil stamping on the front of the book is not available.
+Binding: perfect, paperback
 
 Printing: black and white
-
-Submission requirements: cover and bookblock have correct ISBN/EAN, an EAN bar code is reproduced or created on the back cover of the book at full size, cover ink not exceed 240 percent CMYK total value, book-block PDF name isbn_txt.pdf or isbntxt.pdf
 
 PDF type: PDF/X-1a:2001 or PDF/X-3:2002
 
@@ -32,35 +24,29 @@ LPI: 106
 
 ## Design
 
-See sample PDF cover: https://github.com/consortium/PoD_template/blob/master/original_base_resources/final-covers/9781906496647-Perfect_v4.pdf
-
-See sample PDF book-block: https://github.com/consortium/PoD_template/blob/master/original_base_resources/Chris_Kraus_indesign_files/Chris_Kraus_proof_v19.pdf
-
-InDesign file and for cover: https://github.com/consortium/PoD_template/tree/master/original_base_resources/final-covers/9781906496647-cover-indesign
-
-InDesign file and for book-block: https://github.com/consortium/PoD_template/blob/master/original_base_resources/Chris_Kraus_indesign_files/Chris_Kraus_proof_v19.idml
-
-Lightningsourc cover template as PDF and INDD: PDF https://github.com/consortium/PoD_template/blob/master/original_base_resources/final-covers/cover_templates/9781906496647-Perfect.pdf INDD https://github.com/consortium/PoD_template/blob/master/original_base_resources/final-covers/cover_templates/9781906496647-Perfect.indd
+See sample [PDF book-block] (https://github.com/consortium/PoD_template/blob/master/original_base_resources/Chris_Kraus_indesign_files/Chris_Kraus_proof_v19.pdf)
 
 ### Book-block
 
-Page dimension 203 x 127 mm
-
-Bleed: 3 mm top, 3 mm bottom, 3 mm outside, 0 mm inside
-
-Printers marks and crop marks: none
-
 Margins: 12 mm top, 10.5 mm bottom, 15 mm outside, 20 mm inside
+
+**NB: this means RHS (odd numbers) pages need margins with 20mm on the left and 15mm on the right. While LHS (even numbers) need the opposite values**
 
 Baseline grid: 13.5pt align to top margin
 
-Top folio: text 14.85 mm top, 15 mm outside
+Top folio: text 14.85 mm top, 15 mm outside align
+
+**NB: again left and right hand side pages need different alignments**
 
 Text body: 24.5 top, 22.5 mm bottom, 15 mm outside, 20 mm inside
 
+**NB: again left and right hand side pages need different alignments**
+
 Text body box: 92 mm x 156 mm
 
-Bottom folio: 10.5 mm bottom, 15 mm outside
+Bottom folio: 10.5 mm bottom, 15 mm outside align
+
+**NB: again left and right hand side pages need different alignments**
 
 #### Type
 
